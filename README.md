@@ -1,5 +1,4 @@
-![image](https://github.com/AsinVardhini/sqlinjection/assets/119417735/259d1b35-1476-4252-a115-f88477970546)# sqlinjection
-Exploiting SQL Injection vulnerability
+
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
